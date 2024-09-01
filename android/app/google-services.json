@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "915649795976",
+    "project_id": "moyenxpresscustomer",
+    "storage_bucket": "moyenxpresscustomer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915649795976:android:53a46f6747147482d88c3d",
+        "android_client_info": {
+          "package_name": "com.example.moyen_express"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzhkh8o0JkSWzS56jqCa1eja-9x1VELnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

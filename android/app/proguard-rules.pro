@@ -1,0 +1,1 @@
+-keep class com.moyenexpress.moyen_express.BuildConfig { *; }
